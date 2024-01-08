@@ -6,8 +6,8 @@ This is a Discord Vanity URL Sniper, a tool that automatically claims available 
 
 1. Clone the repository:
     ```
-    git clone https://github.com/idkconsole/VanityUrl-Sniper.git
-    cd VanityUrl-Sniper
+    git clone https://github.com/rckstrrr/discord-vanity-sniper-py.git
+    cd discord-vanity-sniper-py
     ```
 
 2. (Optional) Create a virtual environment and activate it:
